@@ -1,5 +1,5 @@
 lst=[111,222,333,444,555]
-element = 445
+element = 444
 flag=0
 for i in range (0,len(lst)):
     if element==lst[i]:

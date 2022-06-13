@@ -1,5 +1,5 @@
-num=7
-if(num %2==0):
-    print(f"{num} is even")
+num =68
+if (num%2==0):
+    print(F"the given no {num} is even")
 else:
-    print(f"{num} is odd")
+    print(f"the given no is {num} is odd")
