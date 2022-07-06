@@ -11,5 +11,6 @@ print ("balence" in account)
 account["balence"]="5000"
 print(account)
 
-account["balence"]+=1000
-print(account)
+#get method
+
+print(account.get ("acc_no"))
